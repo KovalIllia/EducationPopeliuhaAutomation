@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4U8pkdTCLT6fVsml5H9RYOk38fla/2OoyrGjBePWLrD1avbwLZCcGCSYzNVKvEapueol+tvo5UQfPUsnXgIHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\illia.koval\\RiderProjects\\TestProjectPopeliuhaAutomation\\TestProjectPopeliuhaAutomation\\TestProjectPopeliuhaAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\illia.koval\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.1\\microsoft.testplatform.testhost.17.11.1.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\nunit.consolerunner\\3.18.1\\nunit.consolerunner.3.18.1.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\selenium.support\\4.24.0\\selenium.support.4.24.0.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\selenium.webdriver.chromedriver\\130.0.6723.5800\\selenium.webdriver.chromedriver.130.0.6723.5800.nupkg.sha512",
+    "C:\\Users\\illia.koval\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
