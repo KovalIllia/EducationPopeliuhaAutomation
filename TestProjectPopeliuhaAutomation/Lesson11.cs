@@ -24,6 +24,8 @@ public class Lesson11
             IWebElement checkBoxByMobileModel = driver.FindElement(By.XPath($"//span[text()='{mobileModel}']/parent::span"));//альтернатива знегерована автомат /html/body/div[4]/div/div[1]/aside/div[1]/div[1]/div[3]/div[1]/div/div[3]/div[1]/label[2]/span
             checkBoxByMobileModel.Click();
             
+            
+            
             //Assert --> буде вивчатись далі
 
 
